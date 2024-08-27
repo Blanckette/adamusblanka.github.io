@@ -333,6 +333,12 @@
     }
 
     & .footer-links {
-        color: aliceblue;
+        display: flex;
+        gap: 2rem;
+    }
+
+    & .footer-icons {
+        width: 3rem;
+        height: 3rem;
     }
  }
